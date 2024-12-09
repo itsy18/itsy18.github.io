@@ -1,7 +1,7 @@
 
 # Itsel Torres's Portfolio
 
-Welcome to my homepage! I am a first year computer engineering at the University of Cal State Fullerton. I have my first two years of college done due to the fact that I completed my general education requirements in highschool. I hope to graduate by 2026!
+Welcome to my homepage! I am a first year computer engineering at the University of Cal State Fullerton. I have my first two years of college done due to the fact that I have completed my general education requirements in highschool. I hope to graduate by 2026!
 
 ## My Computer Science Projects
 
